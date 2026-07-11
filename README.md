@@ -1,14 +1,15 @@
 <div align="center">
 
-<!-- هدر اصلی و شیک -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:4b6cb7,100:182848&height=180&section=header&text=Farid%20Havasi&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Backend%20Engineer&descAlignY=55&descAlign=50&descSize=18" alt="Header banner"/>
+<!-- هدر حرفه‌ای با پالت رنگی Deep Blue -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:05091a,100:0e75b6&height=200&section=header&text=Farid%20Havasi&fontSize=45&fontColor=ffffff&desc=Software%20Engineering%20%26%20Backend&descAlignY=60&descAlign=50&descSize=18" alt="Header banner"/>
 
 <br/>
 
-<!-- بخش تایپ‌شونده یا همان اسلایدِ متن -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Python+Expert;Go+Developer;Building+Scalable+Backend;Backend+Engineer" alt="Animated typing intro"/>
+<!-- بخش تایپ‌شونده با افکت اسلایدی -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00d4ff&center=true&vCenter=true&width=700&lines=Python+%26+Go+Developer;Crafting+Scalable+Backends;Software+Engineering+Enthusiast;Building+Efficient+Systems" alt="Animated typing intro"/>
 
 </div>
+
 
 
 <br/>
