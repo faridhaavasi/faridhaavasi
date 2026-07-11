@@ -1,15 +1,15 @@
 <div align="center">
 
-<!-- هدر با نام و عنوان جدید -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:8e2de2,100:4a00e0&height=180&section=header&text=Farid%20Havasi&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Backend%20Engineer&descAlignY=55&descAlign=50&descSize=18" alt="Header banner"/>
-
+<!-- هدر اصلی و شیک -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:4b6cb7,100:182848&height=180&section=header&text=Farid%20Havasi&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Backend%20Engineer&descAlignY=55&descAlign=50&descSize=18" alt="Header banner"/>
 
 <br/>
 
-<!-- بخش متحرک (تایپ شونده) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Backend+Engineer;FastAPI+%7C+Go+%7C+Django;Building+Scalable+APIs;Passionate+About+Software+Engineering" alt="Animated typing intro"/>
+<!-- بخش تایپ‌شونده یا همان اسلایدِ متن -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Python+Expert;Go+Developer;Building+Scalable+Backend;Backend+Engineer" alt="Animated typing intro"/>
 
 </div>
+
 
 <br/>
 
