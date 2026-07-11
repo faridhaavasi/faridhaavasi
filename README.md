@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- هدر با نام و عنوان جدید -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:005571,100:092E20&height=180&section=header&text=Farid%20Havasi&fontSize=42&fontColor=ffffff&animation=twinkling&desc=Backend%20Engineer&descAlignY=55&descAlign=50&descSize=18" alt="Header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:8e2de2,100:4a00e0&height=180&section=header&text=Farid%20Havasi&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Backend%20Engineer&descAlignY=55&descAlign=50&descSize=18" alt="Header banner"/>
+
 
 <br/>
 
