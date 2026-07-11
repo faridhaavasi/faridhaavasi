@@ -1,11 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:005571,100:092E20&height=180&section=header&text=Farid%20Havasi&fontSize=42&fontColor=ffffff&animation=twinkling&desc=Backend%20Developer&descAlignY=55&descAlign=50&descSize=18" alt="Header banner"/>
-
+<!-- هدر با نام و عنوان جدید -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:005571,100:092E20&height=180&section=header&text=Farid%20Havasi&fontSize=42&fontColor=ffffff&animation=twinkling&desc=Backend%20Engineer&descAlignY=55&descAlign=50&descSize=18" alt="Header banner"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Backend+Developer;FastAPI+%7C+Go+%7C+Django;Building+Scalable+APIs;Passionate+About+Software+Engineering" alt="Animated typing intro"/>
+<!-- بخش متحرک (تایپ شونده) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Backend+Engineer;FastAPI+%7C+Go+%7C+Django;Building+Scalable+APIs;Passionate+About+Software+Engineering" alt="Animated typing intro"/>
+
+</div>
 
 <br/>
 
