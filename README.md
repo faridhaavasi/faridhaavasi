@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:005571,100:092E20&height=180&section=header&text=Farid%20Havasi&fontSize=42&fontColor=ffffff&animation=twinkling&desc=Backend%20Developer&descAlignY=55&descAlign=50&descSize=18" alt="Header banner"/>
 
-<img src="https://github.com/faridhaavasi.png" width="130" alt="Farid Havasi profile picture"/>
 
 <br/>
 
@@ -15,7 +14,6 @@
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=faridhaavasi&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/faridhaavasi)
-[![GitHub Followers](https://img.shields.io/github/followers/faridhaavasi?style=for-the-badge&logo=github&color=181717)](https://github.com/faridhaavasi?tab=followers)
 
 </div>
 
