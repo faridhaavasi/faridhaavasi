@@ -1,6 +1,3 @@
-English-only README with image URLs that load reliably on GitHub (no Heroku or repo-dependent assets):
-
-
 <table>
 <tr>
 <td width="50%">
