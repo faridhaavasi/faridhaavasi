@@ -94,16 +94,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:005571&height=130&section=footer&text=Thanks%20for%20visiting!&fontSize=26&fontColor=ffffff&animation=twinkling" alt="Footer banner"/>
 
 </div>
-```
 
-**What changed for reliability**
 
-| Before | Now |
-|--------|-----|
-| `readme-typing-svg.herokuapp.com` | `readme-typing-svg.demolab.com` (Heroku is often down) |
-| `github-readme-streak-stats.herokuapp.com` | `streak-stats.demolab.com` |
-| GIF from your repo or Giphy | `skillicons.dev` icons (stable CDN) |
-| Persian text | All English |
-| LinkedIn/Telegram placeholders | Removed to avoid broken links |
-
-All images use stable services: **Vercel**, **Demolab**, **skillicons.dev**, **shields.io**, **komarev.com**, and your **GitHub avatar**. Copy this into `README.md` in your profile repo (`faridhaavasi/faridhaavasi`).
