@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- هدر حرفه‌ای با پالت رنگی Deep Blue -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:05091a,100:0e75b6&height=200&section=header&text=Farid%20Havasi&fontSize=45&fontColor=ffffff&desc=Software%20Engineering%20%26%20Backend&descAlignY=60&descAlign=50&descSize=18" alt="Header banner"/>
+
 
 <br/>
 
