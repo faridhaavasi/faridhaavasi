@@ -1,21 +1,13 @@
+
 <div align="center">
 
-<!-- هدر حرفه‌ای با پالت رنگی Deep Blue -->
+# Hi, I'm Farid Havasi 👋
 
+### Backend Software Engineer | Python & Django
 
-<br/>
+Building reliable backend systems, scalable APIs, and real-time applications.
 
-<!-- بخش تایپ‌شونده با افکت اسلایدی -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00d4ff&center=true&vCenter=true&width=700&lines=Python+%26+Go+Developer;Crafting+Scalable+Backends;Software+Engineering+Enthusiast;Building+Efficient+Systems" alt="Animated typing intro"/>
-
-</div>
-
-
-
-
-<br/>
-
-**Building reliable APIs and clean backend systems**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Python+Backend+Developer;Django+%26+FastAPI+Engineer;Building+Real-Time+Applications;Exploring+Go+%26+System+Design" alt="Typing SVG" />
 
 <br/>
 
@@ -27,64 +19,145 @@
 
 ## About Me
 
-<img align="right" src="https://skillicons.dev/icons?i=python,go,fastapi,django,postgres,redis,docker&theme=dark" width="220" alt="Core tech stack icons"/>
+I'm a Backend Software Engineer specializing in Python, Django, and FastAPI, with experience building web applications, RESTful APIs, and backend services.
+
+I have worked on e-commerce platforms, real-time communication systems, background processing, and database optimization.
+
+I enjoy solving complex engineering problems, writing clean and maintainable code, and continuously improving my software engineering skills.
 
 ```python
-farid = {
-    "role": "Backend Developer",
-    "focus": ["FastAPI", "Go", "Django", "REST APIs"],
-    "passion": "Software Engineering",
-    "currently": "Designing scalable backend systems",
-    "fun_fact": "I love turning complex problems into clean code",
-}
+class FaridHavasi:
+    def __init__(self):
+        self.role = "Backend Software Engineer"
+        self.primary_language = "Python"
+        self.frameworks = ["Django", "DRF", "FastAPI"]
+        self.familiar_languages = ["Go"]
+        self.databases = [
+            "PostgreSQL",
+            "MySQL",
+            "MongoDB",
+            "Redis"
+        ]
+        self.interests = [
+            "Backend Architecture",
+            "Real-Time Systems",
+            "Database Optimization",
+            "Distributed Systems"
+        ]
+
+    def say_hi(self):
+        print("Thanks for visiting my GitHub profile!")
+
+
+me = FaridHavasi()
+me.say_hi()
 ```
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**What I do**
-
-- RESTful APIs with **FastAPI** and **Django**
-- High-performance services in **Go**
-- Auth, queues, caching, and clean architecture
-- Turning ideas into production-ready backends
-
-</td>
-<td width="50%" valign="top">
-
-**What drives me**
-
-- Writing code that lasts
-- Learning new tools and patterns
-- Clean, readable, maintainable systems
-- Passionate about software engineering
-
-</td>
-</tr>
-</table>
 
 ---
 
-## Tech Stack
+## Technical Skills
 
-<div align="center">
+### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,go,fastapi,django,postgres,mysql,redis,rabbitmq,nginx,git,github,gitlab,docker,linux&perline=7" alt="Tech stack logos"/>
+<img src="https://skillicons.dev/icons?i=python,go" />
 
-<br/>
+- **Python:** Primary programming language
+- **Go:** Familiar with
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+### Backend Development
 
-</div>
+<img src="https://skillicons.dev/icons?i=django,fastapi,flask" />
+
+- Django
+- Django REST Framework
+- FastAPI
+- Flask
+- RESTful API Development
+- WebSockets
+- Django Channels
+- GraphQL
+- gRPC
+- Webhooks
+
+### Databases & Caching
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+
+- PostgreSQL
+- MySQL
+- MongoDB
+- Redis
+- Django ORM
+- SQLAlchemy
+- Database Design & Optimization
+
+### Background Processing & Concurrency
+
+- Celery
+- Celery Beat
+- AsyncIO
+- Threading
+- HTTPX
+
+### DevOps & Development Tools
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,linux,githubactions" />
+
+- Docker
+- Docker Swarm
+- Git
+- GitHub
+- GitLab
+- GitHub Actions (CI/CD)
+- Linux
+
+---
+
+## Professional Experience
+
+### Software Engineer — AiRun
+`December 2025 – Present`
+
+- Contributing to the modernization of a legacy WordPress-based e-commerce platform by migrating its backend to Django.
+- Working on PostgreSQL database redesign and optimization.
+- Implementing Redis-based caching, contributing to a 20% improvement in website speed.
+- Developing real-time features using WebSockets and Django Channels.
+- Contributing to chatbot integration and AI-powered features for improved customer interaction and product discovery.
+
+### Backend Developer — Himedice
+`January 2025 – June 2025`
+
+- Contributed to developing a scalable e-commerce platform using Django, FastAPI, and PostgreSQL.
+- Implemented asynchronous and scheduled background tasks using Celery and Celery Beat.
+- Developed payment-related background workflows and automated tasks.
+- Built a real-time communication system between customers and sellers using FastAPI WebSockets.
+
+### Software Engineering Intern — Arnikup
+`May 2023 – October 2023`
+
+- Gained practical experience in software development and backend programming.
+- Worked with databases, debugging, and software development tools.
+- Collaborated with the development team to implement features and troubleshoot technical issues.
+
+### Backend Developer — Tiphub
+`May 2022 – October 2023`
+
+- Developed a video upload and management system using Django REST Framework.
+- Integrated Object Storage for file management.
+- Implemented asynchronous background processing for large file uploads.
+- Improved the scalability and performance of file-handling workflows.
+
+---
+
+## Areas of Interest
+
+- Backend System Architecture
+- Scalable Web Applications
+- Microservices Architecture
+- Real-Time Communication
+- Database Performance Optimization
+- Distributed Systems
+- Software Engineering Best Practices
 
 ---
 
@@ -92,39 +165,19 @@ farid = {
 
 <div align="center">
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faridhaavasi&theme=tokyonight" alt="GitHub profile details"/>
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=faridhaavasi&theme=tokyonight" alt="GitHub stats"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faridhaavasi&theme=tokyonight" alt="GitHub Profile Details"/>
 
-<img height="180" src="https://streak-stats.demolab.com/?user=faridhaavasi&theme=tokyonight&hide_border=true&background=0d1117&ring=0e75b6&fire=58a6ff&currStreakLabel=0e75b6" alt="GitHub streak"/>
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faridhaavasi&theme=tokyonight" alt="Top repositories by language"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=faridhaavasi&theme=tokyonight" alt="GitHub Statistics"/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=faridhaavasi&theme=tokyonight&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=0e75b6&point=ffffff" alt="GitHub activity graph"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faridhaavasi&theme=tokyonight" alt="Top Languages"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=faridhaavasi&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Graph"/>
 
 </div>
 
 ---
 
-## Currently Exploring
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Microservices-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Microservices with Go"/>
-<img src="https://img.shields.io/badge/Async%20APIs-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="Async APIs with FastAPI"/>
-<img src="https://img.shields.io/badge/System%20Design-Architecture-0e75b6?style=for-the-badge" alt="System Design"/>
-<img src="https://img.shields.io/badge/Performance-Observability-005571?style=for-the-badge" alt="Performance and Observability"/>
-
-</div>
-
-<br/>
-
-> Microservices with Go  
-> Async APIs with FastAPI  
-> System design and clean architecture  
-> Performance tuning and observability
-
----
-
-## Connect With Me
+## Let's Connect
 
 <div align="center">
 
@@ -134,11 +187,12 @@ farid = {
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/faridhavasi1)
 
-
-
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:havasifarid6@gmail.com)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:005571&height=130&section=footer&text=Thanks%20for%20visiting!&fontSize=26&fontColor=ffffff&animation=twinkling" alt="Footer banner"/>
+**Always learning, building, and improving.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:005571&height=120&section=footer" width="100%"/>
 
 </div>
